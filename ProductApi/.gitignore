@@ -1,0 +1,40 @@
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ist/
+
+# ASP.NET
+# User-specific files
+.vs/
+.vscode/
+
+# ASP.NET MVC build directories
+bin/
+obj/
+
+# Packages directory
+packages/
+
+# Logs
+*.log
+logs/
+
+# AppSettings file for development environment (should be in a secure location like Azure KeyVault, or encrypted)
+appsettings.json
+
+# User secrets file (development)
+secrets.json
+
+# Temporary ASP.NET files
+tmp/
